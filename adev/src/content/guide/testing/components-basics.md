@@ -1,4 +1,4 @@
-# Basics of testing components
+# Basics of testing
 
 A component, unlike all other parts of an Angular application, combines an HTML template and a TypeScript class.
 The component truly is the template and the class _working together_.
